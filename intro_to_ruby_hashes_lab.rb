@@ -4,7 +4,8 @@ def new_hash()
 end
 
 def actor
-
+jhonn= Hash.new
+jhonny depp["dog"] = "woof"
 end
 
 def monopoly
